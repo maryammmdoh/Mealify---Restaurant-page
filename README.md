@@ -7,7 +7,11 @@
 ## 🚀 Live Demo
 - https://maryammmdoh.github.io/Mealify---Restaurant-page/
 
+---
 
+## 🎬 Demo local Video
+Download and watch the demo video for the website and it's Responsiveness from the link below:
+https://drive.google.com/drive/folders/1q8q5919bRAOvc3QNlZMIZ2EIOH1C4ZTz?usp=sharing
 ---
 
 ## ✨ Key Features
